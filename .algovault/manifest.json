@@ -1,0 +1,260 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-31T05:51:26.731Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "minimum-number-of-pushes-to-type-word-ii": {
+          "questionId": "3016",
+          "title": "Minimum Number of Pushes to Type Word II",
+          "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785477086730,
+              "runtime": "181 ms",
+              "memory": "19.9 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Number of Pushes to Type Word II/"
+            }
+          }
+        },
+        "minimum-number-of-pushes-to-type-word-i": {
+          "questionId": "3014",
+          "title": "Minimum Number of Pushes to Type Word I",
+          "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "20 ms",
+              "memory": "107.9 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "0 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "smallest-palindromic-rearrangement-ii": {
+          "questionId": "3518",
+          "title": "Smallest Palindromic Rearrangement II",
+          "titleSlug": "smallest-palindromic-rearrangement-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Combinatorics",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "17 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
+            }
+          }
+        },
+        "smallest-palindromic-rearrangement-i": {
+          "questionId": "3517",
+          "title": "Smallest Palindromic Rearrangement I",
+          "titleSlug": "smallest-palindromic-rearrangement-i",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "37 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/String/Smallest Palindromic Rearrangement I/"
+            }
+          }
+        },
+        "maximum-product-of-two-elements-in-an-array": {
+          "questionId": "1464",
+          "title": "Maximum Product of Two Elements in an Array",
+          "titleSlug": "maximum-product-of-two-elements-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1785477086731,
+              "runtime": "0 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "15 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "maximum-product-of-two-digits": {
+          "questionId": "3536",
+          "title": "Maximum Product of Two Digits",
+          "titleSlug": "maximum-product-of-two-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-ii": {
+          "questionId": "3514",
+          "title": "Number of Unique XOR Triplets II",
+          "titleSlug": "number-of-unique-xor-triplets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "178 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-i": {
+          "questionId": "3513",
+          "title": "Number of Unique XOR Triplets I",
+          "titleSlug": "number-of-unique-xor-triplets-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "1 ms",
+              "memory": "125.5 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets I/"
+            }
+          }
+        },
+        "maximize-active-section-with-trade-ii": {
+          "questionId": "3501",
+          "title": "Maximize Active Section with Trade II",
+          "titleSlug": "maximize-active-section-with-trade-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Binary Search",
+            "Segment Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "61 ms",
+              "memory": "232.9 MB",
+              "githubPath": "LeetCode/Array/Maximize Active Section with Trade II/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477086731,
+              "runtime": "0 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        }
+      },
+      "username": "QLAR3mwAlv"
+    }
+  }
+}
