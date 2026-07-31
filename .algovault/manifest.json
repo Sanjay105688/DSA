@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T05:51:26.731Z",
+  "lastUpdated": "2026-07-31T05:52:33.709Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -250,6 +250,303 @@
               "runtime": "0 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "maximize-active-section-with-trade-i": {
+          "questionId": "3499",
+          "title": "Maximize Active Section with Trade I",
+          "titleSlug": "maximize-active-section-with-trade-i",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "48 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/String/Maximize Active Section with Trade I/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "shift-2d-grid": {
+          "questionId": "1260",
+          "title": "Shift 2D Grid",
+          "titleSlug": "shift-2d-grid",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "5 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Shift 2D Grid/"
+            }
+          }
+        },
+        "smallest-subsequence-of-distinct-characters": {
+          "questionId": "1081",
+          "title": "Smallest Subsequence of Distinct Characters",
+          "titleSlug": "smallest-subsequence-of-distinct-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "2 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Smallest Subsequence of Distinct Characters/"
+            }
+          }
+        },
+        "find-greatest-common-divisor-of-array": {
+          "questionId": "1979",
+          "title": "Find Greatest Common Divisor of Array",
+          "titleSlug": "find-greatest-common-divisor-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Find Greatest Common Divisor of Array/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "50 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "sorted-gcd-pair-queries": {
+          "questionId": "3312",
+          "title": "Sorted GCD Pair Queries",
+          "titleSlug": "sorted-gcd-pair-queries",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Combinatorics",
+            "Counting",
+            "Number Theory",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "32 ms",
+              "memory": "97.7 MB",
+              "githubPath": "LeetCode/Array/Sorted GCD Pair Queries/"
+            }
+          }
+        },
+        "sum-of-gcd-of-formed-pairs": {
+          "questionId": "3867",
+          "title": "Sum of GCD of Formed Pairs",
+          "titleSlug": "sum-of-gcd-of-formed-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers",
+            "Sorting",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "55 ms",
+              "memory": "108 MB",
+              "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
+            }
+          }
+        },
+        "gcd-of-odd-and-even-sums": {
+          "questionId": "3658",
+          "title": "GCD of Odd and Even Sums",
+          "titleSlug": "gcd-of-odd-and-even-sums",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/GCD of Odd and Even Sums/"
+            }
+          }
+        },
+        "find-the-number-of-subsequences-with-equal-gcd": {
+          "questionId": "3336",
+          "title": "Find the Number of Subsequences With Equal GCD",
+          "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "106 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Find the Number of Subsequences With Equal GCD/"
+            }
+          }
+        },
+        "sequential-digits": {
+          "questionId": "1291",
+          "title": "Sequential Digits",
+          "titleSlug": "sequential-digits",
+          "difficulty": "Medium",
+          "tags": [
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Enumeration/Sequential Digits/"
+            }
+          }
+        },
+        "rank-transform-of-an-array": {
+          "questionId": "1331",
+          "title": "Rank Transform of an Array",
+          "titleSlug": "rank-transform-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "28 ms",
+              "memory": "76.8 MB",
+              "githubPath": "LeetCode/Array/Rank Transform of an Array/"
+            }
+          }
+        },
+        "count-the-number-of-complete-components": {
+          "questionId": "2685",
+          "title": "Count the Number of Complete Components",
+          "titleSlug": "count-the-number-of-complete-components",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "4 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Depth-First Search/Count the Number of Complete Components/"
+            }
+          }
+        },
+        "path-existence-queries-in-a-graph-ii": {
+          "questionId": "3534",
+          "title": "Path Existence Queries in a Graph II",
+          "titleSlug": "path-existence-queries-in-a-graph-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Dynamic Programming",
+            "Greedy",
+            "Bit Manipulation",
+            "Graph Theory",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "125 ms",
+              "memory": "283.3 MB",
+              "githubPath": "LeetCode/Array/Path Existence Queries in a Graph II/"
+            }
+          }
+        },
+        "path-existence-queries-in-a-graph-i": {
+          "questionId": "3532",
+          "title": "Path Existence Queries in a Graph I",
+          "titleSlug": "path-existence-queries-in-a-graph-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785477153709,
+              "runtime": "3 ms",
+              "memory": "163.1 MB",
+              "githubPath": "LeetCode/Array/Path Existence Queries in a Graph I/"
             }
           }
         }
