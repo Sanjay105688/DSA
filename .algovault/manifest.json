@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T03:47:05.118Z",
+  "lastUpdated": "2026-08-03T04:30:52.274Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -568,6 +568,26 @@
               "runtime": "0 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Array/Predict the Winner/"
+            }
+          }
+        },
+        "stone-game-iii": {
+          "questionId": "1406",
+          "title": "Stone Game III",
+          "titleSlug": "stone-game-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Game Theory"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785731452274,
+              "runtime": "652 ms",
+              "memory": "23.8 MB",
+              "githubPath": "LeetCode/Array/Stone Game III/"
             }
           }
         }
