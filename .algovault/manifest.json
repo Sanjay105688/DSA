@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T04:30:52.274Z",
+  "lastUpdated": "2026-08-06T12:07:51.800Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -588,6 +588,24 @@
               "runtime": "652 ms",
               "memory": "23.8 MB",
               "githubPath": "LeetCode/Array/Stone Game III/"
+            }
+          }
+        },
+        "smallest-divisible-digit-product-i": {
+          "questionId": "3345",
+          "title": "Smallest Divisible Digit Product I",
+          "titleSlug": "smallest-divisible-digit-product-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1786018071800,
+              "runtime": "0 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
         }
