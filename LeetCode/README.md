@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1786018071836" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1786274034788" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Medium |
 | 1260 | [Shift 2D Grid](./Array/Shift%202D%20Grid/) | Easy |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
