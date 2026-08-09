@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T11:13:54.753Z",
+  "lastUpdated": "2026-08-09T11:20:57.828Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -629,6 +629,24 @@
               "runtime": "2 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Array/Stone Game II/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786274457828,
+              "runtime": "38 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         }
