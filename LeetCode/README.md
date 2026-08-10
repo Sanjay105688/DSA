@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1786274457858" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1786352339352" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -91,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |

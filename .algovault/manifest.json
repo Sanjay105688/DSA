@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T11:20:57.828Z",
+  "lastUpdated": "2026-08-10T08:58:59.323Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -647,6 +647,29 @@
               "runtime": "38 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "stone-game-iv": {
+          "questionId": "1510",
+          "title": "Stone Game IV",
+          "titleSlug": "stone-game-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Sprague–Grundy Theorem",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786352339323,
+              "runtime": "14 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Stone Game IV/"
             }
           }
         }
