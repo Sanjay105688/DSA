@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-30T05:36:31.118Z",
+  "lastUpdated": "2026-08-30T05:37:03.151Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -282,9 +282,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1788068191118,
+              "syncedAt": 1785477153709,
               "runtime": "0 ms",
-              "memory": "44.4 MB",
+              "memory": "44.3 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
             }
           }
@@ -646,6 +646,12 @@
               "syncedAt": 1788068055561,
               "runtime": "47 ms",
               "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            },
+            "12345678910class solution {    public int[] twosum(int[] nums, int target) {     for(int i=0;i<nums.length;i++){        for(int j=i+1;j<nums.length;j++){            if(nums[i]+nums[j]==target){                return new int[]{i,j};            }        }     }      return new int[]{};": {
+              "syncedAt": 1788068223151,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
