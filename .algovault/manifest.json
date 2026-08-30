@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-30T05:34:15.561Z",
+  "lastUpdated": "2026-08-30T05:36:31.118Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -282,9 +282,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785477153709,
+              "syncedAt": 1788068191118,
               "runtime": "0 ms",
-              "memory": "44.3 MB",
+              "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
             }
           }
