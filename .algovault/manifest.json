@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-30T05:37:15.995Z",
+  "lastUpdated": "2026-09-04T11:35:18.536Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -676,6 +676,24 @@
               "runtime": "14 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
+            }
+          }
+        },
+        "smallest-stable-index-i": {
+          "questionId": "3903",
+          "title": "Smallest Stable Index I",
+          "titleSlug": "smallest-stable-index-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788521718536,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Smallest Stable Index I/"
             }
           }
         }

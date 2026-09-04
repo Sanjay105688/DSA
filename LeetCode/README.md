@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1788068235996" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1788521726528" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -36,6 +36,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3532 | [Path Existence Queries in a Graph I](./Array/Path%20Existence%20Queries%20in%20a%20Graph%20I/) | Medium |
 | 3534 | [Path Existence Queries in a Graph II](./Array/Path%20Existence%20Queries%20in%20a%20Graph%20II/) | Hard |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
+| 3903 | [Smallest Stable Index I](./Array/Smallest%20Stable%20Index%20I/) | Easy |
 
 </details>
 
