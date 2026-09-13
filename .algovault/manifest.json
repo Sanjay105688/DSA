@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-04T11:35:37.377Z",
+  "lastUpdated": "2026-09-13T17:15:20.924Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -694,6 +694,24 @@
               "runtime": "1 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Smallest Stable Index I/"
+            }
+          }
+        },
+        "image-overlap": {
+          "questionId": "835",
+          "title": "Image Overlap",
+          "titleSlug": "image-overlap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789319720924,
+              "runtime": "18 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Image Overlap/"
             }
           }
         }
