@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-20T08:27:26.808Z",
+  "lastUpdated": "2026-09-20T09:43:19.028Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -729,6 +729,24 @@
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789897399028,
+              "runtime": "135 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
         }
