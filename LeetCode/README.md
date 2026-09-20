@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1789897445222" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1789900122626" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -70,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 3016 | [Minimum Number of Pushes to Type Word II](./Hash%20Table/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 
