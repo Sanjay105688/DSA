@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1789319720957" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1789892846839" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -108,6 +108,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 1081 | [Smallest Subsequence of Distinct Characters](./String/Smallest%20Subsequence%20of%20Distinct%20Characters/) | Medium |
 | 3499 | [Maximize Active Section with Trade I](./String/Maximize%20Active%20Section%20with%20Trade%20I/) | Medium |
 | 3517 | [Smallest Palindromic Rearrangement I](./String/Smallest%20Palindromic%20Rearrangement%20I/) | Medium |

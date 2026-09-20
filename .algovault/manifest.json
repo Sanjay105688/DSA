@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-13T17:15:20.924Z",
+  "lastUpdated": "2026-09-20T08:27:26.808Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -712,6 +712,23 @@
               "runtime": "18 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Image Overlap/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789892846808,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
             }
           }
         }
