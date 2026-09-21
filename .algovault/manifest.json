@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T07:57:09.438Z",
+  "lastUpdated": "2026-09-21T08:35:20.821Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -785,6 +785,25 @@
               "runtime": "10 ms",
               "memory": "91.5 MB",
               "githubPath": "LeetCode/Array/Find X Value of Array I/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789979720821,
+              "runtime": "1 ms",
+              "memory": "77.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
             }
           }
         }
