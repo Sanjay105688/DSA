@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-20T10:28:42.595Z",
+  "lastUpdated": "2026-09-21T07:57:09.438Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -766,6 +766,25 @@
               "runtime": "5 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "find-x-value-of-array-i": {
+          "questionId": "3524",
+          "title": "Find X Value of Array I",
+          "titleSlug": "find-x-value-of-array-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789977429438,
+              "runtime": "10 ms",
+              "memory": "91.5 MB",
+              "githubPath": "LeetCode/Array/Find X Value of Array I/"
             }
           }
         }
