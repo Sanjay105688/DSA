@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T08:35:20.821Z",
+  "lastUpdated": "2026-09-22T04:04:13.532Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -804,6 +804,25 @@
               "runtime": "1 ms",
               "memory": "77.2 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "find-x-value-of-array-ii": {
+          "questionId": "3525",
+          "title": "Find X Value of Array II",
+          "titleSlug": "find-x-value-of-array-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Segment Tree"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1790049853532,
+              "runtime": "2693 ms",
+              "memory": "629.2 MB",
+              "githubPath": "LeetCode/Array/Find X Value of Array II/"
             }
           }
         }

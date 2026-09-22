@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1789979720856" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1790049853545" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -36,6 +36,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3513 | [Number of Unique XOR Triplets I](./Array/Number%20of%20Unique%20XOR%20Triplets%20I/) | Medium |
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 | 3524 | [Find X Value of Array I](./Array/Find%20X%20Value%20of%20Array%20I/) | Medium |
+| 3525 | [Find X Value of Array II](./Array/Find%20X%20Value%20of%20Array%20II/) | Hard |
 | 3532 | [Path Existence Queries in a Graph I](./Array/Path%20Existence%20Queries%20in%20a%20Graph%20I/) | Medium |
 | 3534 | [Path Existence Queries in a Graph II](./Array/Path%20Existence%20Queries%20in%20a%20Graph%20II/) | Hard |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
