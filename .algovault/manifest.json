@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-22T04:04:13.532Z",
+  "lastUpdated": "2026-09-28T04:11:38.339Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -823,6 +823,25 @@
               "runtime": "2693 ms",
               "memory": "629.2 MB",
               "githubPath": "LeetCode/Array/Find X Value of Array II/"
+            }
+          }
+        },
+        "maximum-nesting-depth-of-the-parentheses": {
+          "questionId": "1614",
+          "title": "Maximum Nesting Depth of the Parentheses",
+          "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790568698339,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
             }
           }
         }
