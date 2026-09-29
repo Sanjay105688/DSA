@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1790568698371" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/QLAR3mwAlv?theme=tokyonight&show=graph,recent&v=1790654190939" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./Array/%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) | Hard |
 | 3312 | [Sorted GCD Pair Queries](./Array/Sorted%20GCD%20Pair%20Queries/) | Hard |
 | 3336 | [Find the Number of Subsequences With Equal GCD](./Array/Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) | Hard |
 | 3501 | [Maximize Active Section with Trade II](./Array/Maximize%20Active%20Section%20with%20Trade%20II/) | Hard |
