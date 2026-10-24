@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-24T08:34:45.685Z",
+  "lastUpdated": "2026-10-24T08:34:51.520Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -875,10 +875,10 @@
             "Two Pointers"
           ],
           "solutions": {
-            "3456789101112131415161718192021222324252627    public listnode partition(listnode head, int x) {        listnode left = new listnode(0);        listnode right = new listnode(0);                listnode lefttail = left;        listnode righttail = right;                while(head != null){            if(head.val < x){                lefttail.next = head;                lefttail = lefttail.next;            }            else{                righttail.next = head;                righttail = righttail.next;            }            head = head.next;        }                lefttail.next = right.next;        righttail.next = null;                return left.next;    }}": {
-              "syncedAt": 1792830885685,
-              "runtime": "N/A",
-              "memory": "N/A",
+            "java": {
+              "syncedAt": 1792830891520,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
               "githubPath": "LeetCode/Linked List/Partition List/"
             }
           }
